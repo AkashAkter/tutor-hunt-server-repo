@@ -19,7 +19,7 @@
         "id": "02",
         "name": "Learn C++",
         "courseBanner": "https://i.postimg.cc/B6VxhNpv/cpp.png",
-        "courseIntro": "This course covers C++ from very basic to more advanced features. Concepts of C++ programming are made very simple and easy. Every topic is covered in greater detail.",
+        "courseIntro": "This course covers C++ from very basic to more advanced features. Concepts of C++ programming are made very simple and easy.",
         "courseDetails": "C++ Language Course Details: Candidates who are desirous of getting Certification in C++ can check for the course-related info. You can avail information on Duration, Fee, Eligibility, Admission, Syllabus, Jobs, and Salary Offered. Students having a basic knowledge of Computers can undergo this course and have a great career ahead. You can have diverse options to join after finishing the C++ Certification Course.",
         "about": "C++ is an object-oriented programming language that is simple and modern and a general-purpose programming language for application development. This can be great for students who wish to enter the Object-Oriented Programming. The Course is designed in a way that develops basics and skills of C++ Language to Students. It gives Programmers a high level of control over system resources and memory. This cross-platform language can be used to create high-level applications. Aspirants who have done this course can have a wide range of opportunities open up in various platforms.",
         "language": "English",
@@ -113,7 +113,7 @@
     },
     {
         "id": "08",
-        "name": "Data Structures & Algorithms - Python",
+        "name": "DS & Algorithms - Python",
         "courseBanner": "https://i.postimg.cc/855RBxh3/bootstrap.png",
         "courseIntro": "Python DSA for Coding Interview with Animated Examples -- Watch Intro Video to See the Advantage of Learning Visually",
         "courseDetails": "An overview of data structure concepts, arrays, stack, queues, trees, and graphs. Discussion of various implementations of these data objects, programming styles, and run-time representations. Course also examines algorithms for sorting, searching and some graph algorithms.",
