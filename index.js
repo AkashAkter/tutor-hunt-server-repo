@@ -26,4 +26,4 @@ app.get('/courses/:id', (req, res) => {
 
 
 
-app.listen(port, () => console.log('running in', port))
+app.listen(port, () => console.log('Your API is Running'))
